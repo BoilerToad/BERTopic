@@ -28,7 +28,7 @@ visualization_packages = [
 ]
 
 flair_packages = [
-    "flair==0.7"
+    "flair>=0.7"
 ]
 
 extra_packages = visualization_packages + flair_packages
